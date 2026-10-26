@@ -4,7 +4,7 @@
 
 **********RYANTVFREETV-**********
 
-##EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imgur.com/RCPlm91.jpeg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="3rstv",PBB 3.0 Dining Area Livestream
+#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imgur.com/RCPlm91.jpeg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="3rstv",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.key_id=ac87b335cfd44a8589f96a4f8534c674
 #KODIPROP:inputstream.adaptive.clear_key=4b9066c7778e74b899c2f57d977149b1
