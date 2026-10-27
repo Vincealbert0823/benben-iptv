@@ -1296,46 +1296,46 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="RYANTV FREETV",89.1 AWR Manila
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="BEN RADIO",89.1 AWR Manila
 http://192.53.113.120:8000/stream?type=.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="RYANTV FREETV",89.9 Magic
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="BEN RADIO",89.9 Magic
 https://stream.zeno.fm/sh37pvfd938uv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="RYANTV FREETV",90.7 Love Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="BEN RADIO",90.7 Love Radio
 https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="RYANTV FREETV",91.5 Win Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="BEN RADIO",91.5 Win Radio
 https://stream.zeno.fm/nz4ydgnu6hhvv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="RYANTV FREETV",92.3 FM RADIO Manila
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="BEN RADIO",92.3 FM RADIO Manila
 http://us1.amfmph.com:8872/stream?type=.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="RYANTV FREETV",93.1 Monster Radio RX 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="BEN RADIO",93.1 Monster Radio RX 
 https://in-icecast.eradioportal.com:8443/monsterrrx
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="RYANTV FREETV",95.5 Eagle FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="BEN RADIO",95.5 Eagle FM
 http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="RYANTV FREETV",96.3 Easy Rock
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="BEN RADIO",96.3 Easy Rock
 https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/669/dyrk-963-wrock.b988c09b.png" group-title="RYANTV FREETV",96.3 WRocK
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/669/dyrk-963-wrock.b988c09b.png" group-title="BEN RADIO",96.3 WRocK
 https://wrockceb-iradioph.radioca.st/;?1764388585887
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="RYANTV FREETV",97.9 Home Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="BEN RADIO",97.9 Home Radio
 https://hrmanila.radioca.st/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="RYANTV FREETV",98.7 The Master's Touch
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="BEN RADIO",98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="RYANTV FREETV",101.1 Yes Fm
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="BEN RADIO",101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="RYANTV FREETV",102.7 Star FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="BEN RADIO",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yhvWcG2.jpeg" group-title="RYANTV FREETV",105.9 True FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yhvWcG2.jpeg" group-title="BEN RADIO",105.9 True FM
 https://www.truefm.ph/radio-stream/playlist.m3u8
 
 
