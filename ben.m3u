@@ -4,12 +4,12 @@
 
 **********RYANTVFREETV-**********
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV FREETV", PBB 3.0 ALL ACESS
+#EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 External Den Livestream" group-title="3rstv",PBB 3.0 External Den Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
 #EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="3rstv",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
