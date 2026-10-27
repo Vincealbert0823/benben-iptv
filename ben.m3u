@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-**********RYANTVFREETV-**********
+**********VANFLIX TV-**********
 
 #EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 External Den Livestream" group-title="VANFLIX TV",PBB 3.0 External Den Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1339,9 +1339,4 @@ https://stream.zeno.fm/69b1kf7q0y5tv
 https://www.truefm.ph/radio-stream/playlist.m3u8
 
 
-https://nokotan.anhkz.fr/feeds?channel_id=GTV
-#EXTINF: -1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" tvg-logo-small="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" group-title="RYANTVFREE",I Heart Movies
-https://nokotan.anhkz.fr/feeds?channel_id=IHM
-#EXTINF: -1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEie_7cIli0m_8SWd-3wtmpRgAFwkzqn6wdR7HlsSWw4zB4knb1BrPn921MEO7POwHe-lpKued_bVMXO564WtRQZiOKV9Tgt7c1bSkd96kklzeE0zs1MUUG51G-FVDNv4Nbi1uq9JD7mWBpq5sVaq4m2qadUOE8Cx7JPBPkibPdRHPlOeq9ihkOhfVr6UfI" tvg-logo-small="https://blogger.googleusercontent.com/img/a/AVvXsEie_7cIli0m_8SWd-3wtmpRgAFwkzqn6wdR7HlsSWw4zB4knb1BrPn921MEO7POwHe-lpKued_bVMXO564WtRQZiOKV9Tgt7c1bSkd96kklzeE0zs1MUUG51G-FVDNv4Nbi1uq9JD7mWBpq5sVaq4m2qadUOE8Cx7JPBPkibPdRHPlOeq9ihkOhfVr6UfI" group-title="RYANTVFREE",Heart of Asia
-https://nokotan.anhkz.fr/feeds?channel_id=HoA
 
