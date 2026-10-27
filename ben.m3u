@@ -4,28 +4,28 @@
 
 **********RYANTVFREETV-**********
 
-#EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 External Den Livestream" group-title="3rstv",PBB 3.0 External Den Livestream
+#EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 External Den Livestream" group-title="VANFLIX TV",PBB 3.0 External Den Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
-#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="3rstv",PBB 3.0 Dining Area Livestream
+#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="VANFLIX TV",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV FREETV", PBB 3.0 ALL ACESS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="VANFLIX TV", PBB 3.0 ALL ACESS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV FREETV", PBB 3.0 MAIN LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="VANFLIX TV", PBB 3.0 MAIN LIVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -35,349 +35,349 @@ https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30li
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="RYANTV FREETV",BBC Lifestyle
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="VANFLIX TV",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
 
-#EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Bilyonaryoch
+#EXTINF:-1 tvg-id="bilyonaryoch" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Bilyonaryoch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
 https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 
-#EXTINF:-1 tvg-id="cnn_rptv_prod_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",RPTV
+#EXTINF:-1 tvg-id="cnn_rptv_prod_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" group-title="VANFLIX TV",RPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Hits Now
+#EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvmaria_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",TV Maria
+#EXTINF:-1 tvg-id="tvmaria_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-16x9.jpg?width=1980" group-title="VANFLIX TV",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="lotusmacau_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Lotus Macau
+#EXTINF:-1 tvg-id="lotusmacau_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
 https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",TVN Movie
+#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" group-title="VANFLIX TV",TVN Movie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_dreamworktag" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",DreamWorks
+#EXTINF:-1 tvg-id="cg_dreamworktag" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=1980" group-title="VANFLIX TV",DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tvnpre" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",TVN Premier
+#EXTINF:-1 tvg-id="cg_tvnpre" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" group-title="VANFLIX TV",TVN Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-id="kapatid_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Kapatid
+#EXTINF:-1 tvg-id="kapatid_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Kapatid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
 https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="globaltrekker" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/09A671F2-39E7-47AF-BC9B-53AB53BC7FD0/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Global Trekker
+#EXTINF:-1 tvg-id="globaltrekker" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/09A671F2-39E7-47AF-BC9B-53AB53BC7FD0/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
 
-#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/DEFC81EE-883B-446F-BD47-21F5B7FE0730/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",CGTN
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/DEFC81EE-883B-446F-BD47-21F5B7FE0730/0-16x9.jpg?width=1980" group-title="VANFLIX TV",CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 
-#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",NBA TV
+#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="VANFLIX TV",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv5vibetv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/726AB804-66DE-4684-A455-ABD1683114CF/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",VibeTV - TV5
+#EXTINF:-1 tvg-id="tv5vibetv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/726AB804-66DE-4684-A455-ABD1683114CF/0-16x9.jpg?width=1980" group-title="VANFLIX TV",VibeTV - TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",TV5
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="cartoonnetworkhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonnetworkhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
 https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_cnnhd" tvg-logo="https://i.imgur.com/vkJfHaP.png" group-title="RYANTV FREETV",CNN
+#EXTINF:-1 tvg-id="cg_cnnhd" tvg-logo="https://i.imgur.com/vkJfHaP.png" group-title="VANFLIX TV",CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_a2z" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",A2Z
+#EXTINF:-1 tvg-id="cg_a2z" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_dreamworks_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",DreamWorks HD
+#EXTINF:-1 tvg-id="cg_dreamworks_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Animal Planet
+#EXTINF:-1 tvg-id="cg_animal_planet_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_spotvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",SPOTV HD
+#EXTINF:-1 tvg-id="cg_spotvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ptv4_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",PTV 4
+#EXTINF:-1 tvg-id="cg_ptv4_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",PTV 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ptv4_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Premier Sports HD
+#EXTINF:-1 tvg-id="cg_ps_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_rockextreme" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Rock Extreme
+#EXTINF:-1 tvg-id="dr_rockextreme" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockextreme/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_tapsports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Tap Sports
+#EXTINF:-1 tvg-id="dr_tapsports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Tap Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6d4f8912c734b608e159f3a7d5c2046:ec647e6c500235352a8df03c518e9b23
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapsports/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",BBC Earth HD
+#EXTINF:-1 tvg-id="cg_bbcearth_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",One Sports Plus HD
+#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",One Sports Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Rock Entertainment
+#EXTINF:-1 tvg-id="dr_rockentertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Discovery Channel
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_cctv4" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",CCTV 4
+#EXTINF:-1 tvg-id="dr_cctv4" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",CCTV 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_cctv4/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",PBA Rush HD
+#EXTINF:-1 tvg-id="cg_pbarush_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",PBA Rush HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Arirang
+#EXTINF:-1 tvg-id="arirang_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Arirang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
 https://ucdn.mediaquest.com.ph/bpk-tv/arirang_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",KBS World
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",KBS World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
 https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
 
-#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",One News HD
+#EXTINF:-1 tvg-id="onenews_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",One News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="kix_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",KIX HD
+#EXTINF:-1 tvg-id="kix_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",KIX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
 https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_lifetime" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Lifetime
+#EXTINF:-1 tvg-id="dr_lifetime" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 
-#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",BBC World News
+#EXTINF:-1 tvg-id="bbcworld_news_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
 https://ucdn.mediaquest.com.ph/bpk-tv/bbcworld_news_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",HGTV HD
+#EXTINF:-1 tvg-id="hgtv_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
 https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",UAAP Varsity Channel
+#EXTINF:-1 tvg-id="cg_uaap_cplay_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",UAAP Varsity Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="travel_channel_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Travel Channel
+#EXTINF:-1 tvg-id="travel_channel_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
 https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Premier Sports 2 HD
+#EXTINF:-1 tvg-id="premiersports2hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Premier Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
 https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Hits HD
+#EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_aljazeera" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9284-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Al Jazeera
+#EXTINF:-1 tvg-id="dr_aljazeera" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9284-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
-#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",One PH
+#EXTINF:-1 tvg-id="oneph_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",One PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
 https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Food Network HD
+#EXTINF:-1 tvg-id="cg_foodnetwork_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="depedch_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",DepEd TV
+#EXTINF:-1 tvg-id="depedch_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",DepEd TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
 https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_historyhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",History HD
+#EXTINF:-1 tvg-id="dr_historyhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",History HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="fashiontvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9D06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Fashion TV HD
+#EXTINF:-1 tvg-id="fashiontvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9D06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Fashion TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
 https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="bloomberg_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
 https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_nhk_japan" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",NHK Japan
+#EXTINF:-1 tvg-id="dr_nhk_japan" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",NHK Japan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
 
-#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Asian Food Network
+#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
 https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_onesports_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",One Sports HD
+#EXTINF:-1 tvg-id="cg_onesports_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",One Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_nickjr" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB8E0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Nick Jr
+#EXTINF:-1 tvg-id="dr_nickjr" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB8E0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_warnerhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Warner TV HD
+#EXTINF:-1 tvg-id="cg_warnerhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_animax_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Animax
+#EXTINF:-1 tvg-id="cg_animax_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="ibc13_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",IBC 13
+#EXTINF:-1 tvg-id="ibc13_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
 https://ucdn.mediaquest.com.ph/bpk-tv/ibc13_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_axn_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",AXN
+#EXTINF:-1 tvg-id="cg_axn_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_tapmovies_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",TAP Movies HD
+#EXTINF:-1 tvg-id="cg_tapmovies_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",TAP Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_moonbug_kids_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Moonbug Kids
+#EXTINF:-1 tvg-id="cg_moonbug_kids_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="france24" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC9B6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",France 24
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC9B6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",France 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
 https://ucdn.mediaquest.com.ph/bpk-tv/france24/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits_movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Hits Movies
+#EXTINF:-1 tvg-id="hits_movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c9e7328b614d059f247a6c3e5d1048:13ef5feae7c84eb06bcc655a225fb01d
 https://ucdn.mediaquest.com.ph/bpk-tv/hitsmovies/default/index.mpd
 
-#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Channel NewsAsia
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Channel NewsAsia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56d8c4917a234e60b9159f3a6c7d2048:e6f0a100b6a2fcda66e8554f8c9b510b
 https://ucdn.mediaquest.com.ph/bpk-tv/channelnewsasia/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_thrill_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD230-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Thrill
+#EXTINF:-1 tvg-id="cg_thrill_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD230-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="crime_invest" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD5C8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Crime & Investigation
+#EXTINF:-1 tvg-id="crime_invest" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD5C8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:-1 tvg-id="knowledge_channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADA5A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Knowledge Channel
+#EXTINF:-1 tvg-id="knowledge_channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADA5A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84d2f6917b354c08a9163e5d8f2a7049:192c69ef479dd7e3fccc908d6c5dbb3a
 https://ucdn.mediaquest.com.ph/bpk-tv/knowledge_channel/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_tv5_monde" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",TV5 Monde
+#EXTINF:-1 tvg-id="dr_tv5_monde" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:-1 tvg-id="dr_nickelodeon" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="RYANTV FREETV",Nickelodeon
+#EXTINF:-1 tvg-id="dr_nickelodeon" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="VANFLIX TV",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 
-#EXTINF:-1 tvg-id="Studio_Universal" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D//0-3x1.jpg?width=1366" group-title="RYANTV FREETV",Studio Universal
+#EXTINF:-1 tvg-id="Studio_Universal" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D//0-3x1.jpg?width=1366" group-title="VANFLIX TV",Studio Universal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/A47D8F20-1C63-4E95-AB72-9F305D6C81E4/0-16x9.jpg?height=150" group-title="RYANTV FREETV",NCAA NXT
+#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/A47D8F20-1C63-4E95-AB72-9F305D6C81E4/0-16x9.jpg?height=150" group-title="VANFLIX TV",NCAA NXT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
@@ -386,85 +386,85 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" group-title="RYANTV FREETV",BBC News
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" group-title="VANFLIX TV",BBC News
 http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001218&contentid=ch00000000000000001218&videoid=ch00000090990000001095&recommendtype=0&userid=1001363869638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MC1HG0HEY2EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="RYANTV FREETV",One PH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="VANFLIX TV",One PH
 http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/omP283K.png" group-title="RYANTV FREETV",Rai Italia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omP283K.png" group-title="VANFLIX TV",Rai Italia
 http://136.239.159.18:6610/001/2/ch00000090990000001099/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001235&contentid=ch00000000000000001235&videoid=ch00000090990000001099&recommendtype=0&userid=1127958632030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KEK2TOK1TAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/c/c0/VOP_Logo.png" group-title="RYANTV FREETV",RJTV Radyo Bandido TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/c/c0/VOP_Logo.png" group-title="VANFLIX TV",RJTV Radyo Bandido TV
 http://136.239.173.2:6610/001/2/ch00000090990000001338/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001829&contentid=ch00000000000000001829&videoid=ch00000090990000001338&recommendtype=0&userid=1573154325684&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LFDH1A45249XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png" group-title="RYANTV FREETV",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png" group-title="VANFLIX TV",CGTN Documentary
 http://136.239.158.30:6610/001/2/ch00000090990000001110/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArdyomhJMtr4RuT7a45TbNMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001253&contentid=ch00000000000000001253&videoid=ch00000090990000001110&recommendtype=0&userid=1624995133910&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YIL44C7PHAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png" group-title="RYANTV FREETV", Pinoy Xtreme Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png" group-title="VANFLIX TV", Pinoy Xtreme Channel
 http://136.239.158.18:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001222&contentid=ch00000000000000001222&videoid=ch00000090990000001098&recommendtype=0&userid=1869817604648&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NKXBKKPYOEXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="RYANTV FREETV",DD National 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="VANFLIX TV",DD National 
 http://136.239.173.26:6610/001/2/ch00000090990000001148/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApXWNNS2TvTF9lR8xvbk1CJsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001318&contentid=ch00000000000000001318&videoid=ch00000090990000001148&recommendtype=0&userid=1830273769159&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=57CNEQJF8E8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png" group-title="RYANTV FREETV",Hunan TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png" group-title="VANFLIX TV",Hunan TV 
 http://136.239.158.18:6610/001/2/ch00000090990000001164/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6wcBVnnqOi%2FM7rVR2UnT6syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001375&contentid=ch00000000000000001375&videoid=ch00000090990000001164&recommendtype=0&userid=1198199669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=3O0U5MCARNTXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/3ABN_2011.svg" group-title="RYANTV FREETV",3ABN 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/3ABN_2011.svg" group-title="VANFLIX TV",3ABN 
 http://136.239.173.10:6610/001/2/ch00000090990000001183/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr64o8Us4Cb76FV%2BmBBNwJ2syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001397&contentid=ch00000000000000001397&videoid=ch00000090990000001183&recommendtype=0&userid=1977582136078&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=45K5UYO1H2DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WION_news_Logo.svg" group-title="RYANTV FREETV",WION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WION_news_Logo.svg" group-title="VANFLIX TV",WION
 http://136.239.159.20:6610/001/2/ch00000090990000001265/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq8k274WYPuH9%2FjID6Bh2tQ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001695&contentid=ch00000000000000001695&videoid=ch00000090990000001265&recommendtype=0&userid=1780179991829&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DARB71YAJ45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBNpuCE.jpeg" group-title="RYANTV FREETV",EuroNews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBNpuCE.jpeg" group-title="VANFLIX TV",EuroNews
 http://136.239.158.30:6610/001/2/ch00000090990000001336/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001827&contentid=ch00000000000000001827&videoid=ch00000090990000001336&recommendtype=0&userid=1181735797657&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B9K7OQAC78AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Da_Ai_Television_%28Taiwan%29_logo.png" group-title="RYANTV FREETV",Daai TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Da_Ai_Television_%28Taiwan%29_logo.png" group-title="VANFLIX TV",Daai TV
 http://136.239.158.30:6610/001/2/ch00000090990000001201/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoc972%2B9bszPiQPXL2uIItWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001420&contentid=ch00000000000000001420&videoid=ch00000090990000001201&recommendtype=0&userid=1264262612215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=US5Y9RCOTWMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="RYANTV FREETV", Animax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="VANFLIX TV", Animax
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="RYANTV FREETV", One News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="VANFLIX TV", One News
 http://136.239.159.18:6610/001/2/ch00000090990000001084/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArVgubraL%2BIHu4fk7y9Ng6RsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001174&contentid=ch00000000000000001174&videoid=ch00000090990000001084&recommendtype=0&userid=1850724200018&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6CBAIKZS5PAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="RYANTV FREETV", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="VANFLIX TV", Animal Planet
 http://136.239.159.18:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMs3LsiO6wq83YHtJwM7wV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001825&contentid=ch00000000000000001825&videoid=ch00000090990000001335&recommendtype=0&userid=1196740911215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=87D9GXACFV2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180408072813" group-title="RYANTV FREETV", Discovery Asia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180408072813" group-title="VANFLIX TV", Discovery Asia
 http://136.239.173.10:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001816&contentid=ch00000000000000001816&videoid=ch00000090990000001334&recommendtype=0&userid=1996608135992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0WQVURILRBKFXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="RYANTV FREETV", HBO
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="VANFLIX TV", HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vkJfHaP.png" group-title="RYANTV FREETV", CNN International	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vkJfHaP.png" group-title="VANFLIX TV", CNN International	
 http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="RYANTV FREETV", Celestial Movies Pinoy	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="VANFLIX TV", Celestial Movies Pinoy	
 http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="RYANTV FREETV", PBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="VANFLIX TV", PBO
 http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="RYANTV FREETV", Viva Cinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="VANFLIX TV", Viva Cinema
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="RYANTV FREETV", TMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="VANFLIX TV", TMC
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="RYANTV FREETV", SolarSports
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="VANFLIX TV", SolarSports
 http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="RYANTV FREETV", One Sports
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="VANFLIX TV", One Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="RYANTV FREETV", PTV4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="VANFLIX TV", PTV4
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="RYANTV FREETV", A2Z
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="VANFLIX TV", A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="RYANTV FREETV", TV5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="VANFLIX TV", TV5
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="RYANTV FREETV", IBC 13
